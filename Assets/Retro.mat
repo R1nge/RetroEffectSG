@@ -49,15 +49,13 @@ Material:
     m_Ints: []
     m_Floats:
     - _Lines: 7
-    - _LinesAmount: 0.05
     - _NoiseAmount: 0.013
     - _NoiseScale: 100
-    - _NoiseSpeed: 0
     - _QueueControl: 0
     - _QueueOffset: 0
     - _Speed: 1
     - _Strength: 0.005
     m_Colors:
-    - _Color: {r: 0, g: 0, b: 0, a: 0}
+    - _Color: {r: 1, g: 1, b: 1, a: 1}
     - _NoiseSpeed: {r: 0, g: 0.03, b: 0, a: 0}
   m_BuildTextureStacks: []
